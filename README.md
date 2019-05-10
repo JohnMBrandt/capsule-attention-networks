@@ -1,7 +1,11 @@
 capsule-attention-networks
 ==============================
 
-Capsule networks to identify crop type of satellite imagery
+Capsule networks to identify crop type of satellite imagery with 88% accuracy at 30x30m resolution.
+
+![Overview of approach](https://github.com/JohnMBrandt/capsule-attention-networks/blob/master/reports/figures/figure2.png?raw=true)
+
+![Confusion matrix](https://github.com/JohnMBrandt/capsule-attention-networks/blob/master/reports/figures/figure1.png?raw=true)
 
 Project Organization
 ------------
