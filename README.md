@@ -5,7 +5,7 @@ Capsule networks to identify crop type of satellite imagery with 88% accuracy at
 Preprint available on [arxiv](https://arxiv.org/pdf/1904.10130.pdf).
 
 
-| Model    | F-Score |
+| Model    | F1-Score |
 |----------|---------|
 | SVM      | 31.1    |
 | CNN      | 56.7    |
